@@ -1,0 +1,9 @@
+D:\SportStoreManager\SportStoreManager\SportStoreManager\DAO\bin\Debug\DAO.dll
+D:\SportStoreManager\SportStoreManager\SportStoreManager\DAO\bin\Debug\DAO.pdb
+D:\SportStoreManager\SportStoreManager\SportStoreManager\DAO\bin\Debug\SportStoreManager.dll
+D:\SportStoreManager\SportStoreManager\SportStoreManager\DAO\bin\Debug\SportStoreManager.pdb
+D:\SportStoreManager\SportStoreManager\SportStoreManager\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\SportStoreManager\SportStoreManager\SportStoreManager\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\SportStoreManager\SportStoreManager\SportStoreManager\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\SportStoreManager\SportStoreManager\SportStoreManager\DAO\obj\Debug\DAO.dll
+D:\SportStoreManager\SportStoreManager\SportStoreManager\DAO\obj\Debug\DAO.pdb

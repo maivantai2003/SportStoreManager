@@ -1,0 +1,6 @@
+D:\SportStoreManager\SportStoreManager\SportStoreManager\SportStoreManager\bin\Debug\SportStoreManager.dll
+D:\SportStoreManager\SportStoreManager\SportStoreManager\SportStoreManager\bin\Debug\SportStoreManager.pdb
+D:\SportStoreManager\SportStoreManager\SportStoreManager\SportStoreManager\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\SportStoreManager\SportStoreManager\SportStoreManager\SportStoreManager\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\SportStoreManager\SportStoreManager\SportStoreManager\SportStoreManager\obj\Debug\SportStoreManager.dll
+D:\SportStoreManager\SportStoreManager\SportStoreManager\SportStoreManager\obj\Debug\SportStoreManager.pdb

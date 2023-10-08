@@ -1,0 +1,11 @@
+D:\SportStoreManager\SportStoreManager\SportStoreManager\BUS\bin\Debug\BUS.dll
+D:\SportStoreManager\SportStoreManager\SportStoreManager\BUS\bin\Debug\BUS.pdb
+D:\SportStoreManager\SportStoreManager\SportStoreManager\BUS\bin\Debug\DAO.dll
+D:\SportStoreManager\SportStoreManager\SportStoreManager\BUS\bin\Debug\SportStoreManager.dll
+D:\SportStoreManager\SportStoreManager\SportStoreManager\BUS\bin\Debug\DAO.pdb
+D:\SportStoreManager\SportStoreManager\SportStoreManager\BUS\bin\Debug\SportStoreManager.pdb
+D:\SportStoreManager\SportStoreManager\SportStoreManager\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\SportStoreManager\SportStoreManager\SportStoreManager\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\SportStoreManager\SportStoreManager\SportStoreManager\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\SportStoreManager\SportStoreManager\SportStoreManager\BUS\obj\Debug\BUS.dll
+D:\SportStoreManager\SportStoreManager\SportStoreManager\BUS\obj\Debug\BUS.pdb
