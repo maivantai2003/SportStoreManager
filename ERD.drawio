@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T06:14:16.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="22.0.4" etag="cYsSgKzD39e3jiMqvA96" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T06:32:22.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="IhS77vcQhFZAOTAgRe7G" version="22.0.4" type="github">
   <diagram name="Trang-1" id="Xd1AOr_UmLfEILBJ7lOX">
-    <mxGraphModel>
+    <mxGraphModel dx="1184" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PM242X6e5oSsGlfuOUJ1-1" value="SanPham" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="290" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PM242X6e5oSsGlfuOUJ1-2" value="&lt;u&gt;MaSanPham&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PM242X6e5oSsGlfuOUJ1-3" value="TenSanPham" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="175" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PM242X6e5oSsGlfuOUJ1-4" value="GiaSanPham" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="175" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PM242X6e5oSsGlfuOUJ1-5" value="GiaNhap" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PM242X6e5oSsGlfuOUJ1-6" value="TongTienNhap" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="225" width="76" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
