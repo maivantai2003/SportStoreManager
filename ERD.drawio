@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T08:03:17.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="I2wiKAv3qKGT-9RS-WON" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T08:07:00.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="evFuyYwEJ1hsIksjbgRa" version="22.0.4" type="github">
   <diagram name="Trang-1" id="Xd1AOr_UmLfEILBJ7lOX">
     <mxGraphModel dx="2504" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -772,17 +772,17 @@
         <mxCell id="Dkv6TsYvIZMcSx40drt8-70" value="TrangThai" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="1305" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Dkv6TsYvIZMcSx40drt8-71" value="MaKhacHang" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1270" width="60" height="30" as="geometry" />
+        <mxCell id="Dkv6TsYvIZMcSx40drt8-71" value="MaKhachHang" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Dkv6TsYvIZMcSx40drt8-72" value="" style="endArrow=oval;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="Dkv6TsYvIZMcSx40drt8-43" target="Dkv6TsYvIZMcSx40drt8-71">
+        <mxCell id="Dkv6TsYvIZMcSx40drt8-72" value="" style="endArrow=oval;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1" source="Dkv6TsYvIZMcSx40drt8-43" target="Dkv6TsYvIZMcSx40drt8-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="1320" as="sourcePoint" />
             <mxPoint x="358" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dkv6TsYvIZMcSx40drt8-73" value="TenkhachHang" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1260" width="60" height="30" as="geometry" />
+          <mxGeometry x="250" y="1250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dkv6TsYvIZMcSx40drt8-74" value="" style="endArrow=oval;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" target="Dkv6TsYvIZMcSx40drt8-73" source="Dkv6TsYvIZMcSx40drt8-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -797,7 +797,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Dkv6TsYvIZMcSx40drt8-76" value="Tuoi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="383" y="1290" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="1240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dkv6TsYvIZMcSx40drt8-77" value="DiaChi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dkv6TsYvIZMcSx40drt8-78" value="" style="endArrow=oval;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="Dkv6TsYvIZMcSx40drt8-43" target="Dkv6TsYvIZMcSx40drt8-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-250" y="1190" as="sourcePoint" />
+            <mxPoint x="-200" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dkv6TsYvIZMcSx40drt8-79" value="TrangThai" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dkv6TsYvIZMcSx40drt8-80" value="" style="endArrow=oval;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="Dkv6TsYvIZMcSx40drt8-43" target="Dkv6TsYvIZMcSx40drt8-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="1360" as="sourcePoint" />
+            <mxPoint x="-200" y="1140" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
