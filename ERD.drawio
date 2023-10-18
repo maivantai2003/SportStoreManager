@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T03:59:00.977Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Nn_QzOhZej6a-2T-4prR" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T05:45:09.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="SbFCzWegCZBNl71pLcg5" version="22.0.4" type="github">
   <diagram name="Trang-1" id="Xd1AOr_UmLfEILBJ7lOX">
-    <mxGraphModel dx="2103" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1833" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -445,77 +445,86 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r-frM_LWvgX4qFjNqL1R-6" value="TenThuongHieu" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;startArrow=oval;startFill=0;startSize=8;endArrow=none;rounded=0;" edge="1" parent="1">
+        <mxCell id="r-frM_LWvgX4qFjNqL1R-6" value="TenThuongHieu" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;startArrow=oval;startFill=0;startSize=8;endArrow=none;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="-643" y="940" as="sourcePoint" />
             <mxPoint x="-660" y="994" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r-frM_LWvgX4qFjNqL1R-7" value="TrangThai" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;startArrow=oval;startFill=0;startSize=8;endArrow=none;rounded=0;" edge="1" parent="1">
+        <mxCell id="r-frM_LWvgX4qFjNqL1R-7" value="TrangThai" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;startArrow=oval;startFill=0;startSize=8;endArrow=none;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-1" y="-11" relative="1" as="geometry">
             <mxPoint x="-580" y="964" as="sourcePoint" />
             <mxPoint x="-660" y="994" as="targetPoint" />
             <mxPoint x="14" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r-frM_LWvgX4qFjNqL1R-8" value="MaThuongHieu" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;startArrow=oval;startFill=1;startSize=8;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="r-frM_LWvgX4qFjNqL1R-8" value="MaThuongHieu" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;startArrow=oval;startFill=1;startSize=8;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry x="-1" y="4" relative="1" as="geometry">
             <mxPoint x="-720" y="964" as="sourcePoint" />
             <mxPoint x="-660" y="994" as="targetPoint" />
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r-frM_LWvgX4qFjNqL1R-15" value="TenTheLoai" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;startArrow=oval;startFill=0;startSize=8;endArrow=none;rounded=0;" edge="1" parent="1">
+        <mxCell id="r-frM_LWvgX4qFjNqL1R-15" value="TenTheLoai" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;startArrow=oval;startFill=0;startSize=8;endArrow=none;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="-383" y="940" as="sourcePoint" />
             <mxPoint x="-400" y="994" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r-frM_LWvgX4qFjNqL1R-16" value="TrangThai" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;startArrow=oval;startFill=0;startSize=8;endArrow=none;rounded=0;" edge="1" parent="1">
+        <mxCell id="r-frM_LWvgX4qFjNqL1R-16" value="TrangThai" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;startArrow=oval;startFill=0;startSize=8;endArrow=none;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-1" y="10" relative="1" as="geometry">
             <mxPoint x="-320" y="964" as="sourcePoint" />
             <mxPoint x="-400" y="994" as="targetPoint" />
             <mxPoint x="6" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r-frM_LWvgX4qFjNqL1R-17" value="MaTheLoai" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;startArrow=oval;startFill=1;startSize=8;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="r-frM_LWvgX4qFjNqL1R-17" value="MaTheLoai" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;startArrow=oval;startFill=1;startSize=8;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry x="-1" y="4" relative="1" as="geometry">
             <mxPoint x="-460" y="964" as="sourcePoint" />
             <mxPoint x="-400" y="994" as="targetPoint" />
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r-frM_LWvgX4qFjNqL1R-18" value="TenChatLieu" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;startArrow=oval;startFill=0;startSize=8;endArrow=none;rounded=0;" edge="1" parent="1">
+        <mxCell id="r-frM_LWvgX4qFjNqL1R-18" value="TenChatLieu" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;startArrow=oval;startFill=0;startSize=8;endArrow=none;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="-103" y="940" as="sourcePoint" />
             <mxPoint x="-120" y="994" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r-frM_LWvgX4qFjNqL1R-19" value="TrangThai" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;startArrow=oval;startFill=0;startSize=8;endArrow=none;rounded=0;" edge="1" parent="1">
+        <mxCell id="r-frM_LWvgX4qFjNqL1R-19" value="TrangThai" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;startArrow=oval;startFill=0;startSize=8;endArrow=none;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-1" y="-4" relative="1" as="geometry">
             <mxPoint x="-40" y="964" as="sourcePoint" />
             <mxPoint x="-120" y="994" as="targetPoint" />
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r-frM_LWvgX4qFjNqL1R-20" value="MaChatLieu" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;startArrow=oval;startFill=1;startSize=8;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="r-frM_LWvgX4qFjNqL1R-20" value="MaChatLieu" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;startArrow=oval;startFill=1;startSize=8;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry x="-1" y="4" relative="1" as="geometry">
             <mxPoint x="-180" y="964" as="sourcePoint" />
             <mxPoint x="-120" y="994" as="targetPoint" />
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r-frM_LWvgX4qFjNqL1R-21" value="ThuongHieu" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="r-frM_LWvgX4qFjNqL1R-21" value="ThuongHieu" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-707" y="994" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r-frM_LWvgX4qFjNqL1R-22" value="TheLoai" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="r-frM_LWvgX4qFjNqL1R-22" value="TheLoai" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-450" y="994" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r-frM_LWvgX4qFjNqL1R-23" value="ChatLieu" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="r-frM_LWvgX4qFjNqL1R-23" value="ChatLieu" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-170" y="994" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dkv6TsYvIZMcSx40drt8-1" value="KhuyenMai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-705" y="1140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dkv6TsYvIZMcSx40drt8-2" value="Thue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-472" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dkv6TsYvIZMcSx40drt8-3" value="HoaDon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-186" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
