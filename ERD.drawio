@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T12:25:49.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="kdNzx_QG84pGwLxBiQ7k" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T12:26:08.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="FEaSILniKox1f-DHdn_o" version="22.0.4" type="github">
   <diagram name="Trang-1" id="Xd1AOr_UmLfEILBJ7lOX">
     <mxGraphModel dx="1833" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1124,6 +1124,12 @@
         </mxCell>
         <mxCell id="IyFYt3PhS6xYHeWFPdfU-12" value="(1,1)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="190.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IyFYt3PhS6xYHeWFPdfU-13" value="(1,1)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="629.12" y="178" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IyFYt3PhS6xYHeWFPdfU-14" value="(1,n)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="597" y="350" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
