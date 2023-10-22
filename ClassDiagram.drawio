@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-22T13:25:56.056Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="A65-zClVJxzO6z6HCBfw" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-22T13:26:22.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="dvvUXigs0NbSJBhIoDrp" version="22.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1006" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,10 +118,10 @@
         <mxCell id="dUna7MynS0ApCJgPzMxT-57" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="dUna7MynS0ApCJgPzMxT-53" vertex="1">
           <mxGeometry y="102" width="200" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="dUna7MynS0ApCJgPzMxT-58" value="+ getMaNhomQuyen(): int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="dUna7MynS0ApCJgPzMxT-53" vertex="1">
+        <mxCell id="dUna7MynS0ApCJgPzMxT-58" value="+ getMaMau(): int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="dUna7MynS0ApCJgPzMxT-53" vertex="1">
           <mxGeometry y="110" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dUna7MynS0ApCJgPzMxT-59" value="+ getTenNhomQuyen(): string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="dUna7MynS0ApCJgPzMxT-53" vertex="1">
+        <mxCell id="dUna7MynS0ApCJgPzMxT-59" value="+ getTenMau(): string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="dUna7MynS0ApCJgPzMxT-53" vertex="1">
           <mxGeometry y="136" width="200" height="26" as="geometry" />
         </mxCell>
       </root>
