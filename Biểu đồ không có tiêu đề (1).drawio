@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T14:37:41.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="wuyg7I-1QxNw3fhzJc_N" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T14:38:19.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="bFmk0PiOyU_cMcQqtLJF" version="22.1.4" type="github">
   <diagram name="Trang-1" id="ebLVP_EeFep824AZLhWY">
     <mxGraphModel dx="1006" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,11 +109,6 @@
         </mxCell>
         <mxCell id="V6g9PhahtnZlQAdmNHOX-11" value="TrangThai:int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="6RFZDff2Cd3n8iW6gW3c-36" vertex="1">
           <mxGeometry y="156" width="180" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="6RFZDff2Cd3n8iW6gW3c-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;" parent="1" source="6RFZDff2Cd3n8iW6gW3c-30" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1190" y="135" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="6RFZDff2Cd3n8iW6gW3c-50" value="KhachHang" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="260" width="210" height="160" as="geometry" />
@@ -556,6 +551,9 @@
               <mxPoint x="2121" y="764" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0ZvqQlEarXcybLs4qLP2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;" edge="1" parent="1" source="6RFZDff2Cd3n8iW6gW3c-30" target="6RFZDff2Cd3n8iW6gW3c-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
