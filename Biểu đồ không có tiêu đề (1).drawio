@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T14:28:31.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="U27ZACW_10rl-KtJsF5j" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T14:31:16.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="iPSPbFLOvxeEKIiMTpeA" version="22.1.4" type="github">
   <diagram name="Trang-1" id="ebLVP_EeFep824AZLhWY">
-    <mxGraphModel dx="1246" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1006" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -548,6 +548,15 @@
         </mxCell>
         <mxCell id="dsp_i_-KZS00XTc-KT-D-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;" parent="1" source="V6g9PhahtnZlQAdmNHOX-11" target="dsp_i_-KZS00XTc-KT-D-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZvqQlEarXcybLs4qLP2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.58;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;" edge="1" parent="1" source="uHs2JWFgq39b8XywON-e-49" target="dsp_i_-KZS00XTc-KT-D-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1440" y="733" />
+              <mxPoint x="1440" y="800" />
+              <mxPoint x="2121" y="800" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
