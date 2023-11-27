@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T14:36:38.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="qbOUZnYbN5Axf4ne8qhd" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T14:36:48.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="QBuCxAuHcFm5l0X_7N69" version="22.1.4" type="github">
   <diagram name="Trang-1" id="ebLVP_EeFep824AZLhWY">
     <mxGraphModel dx="1006" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -338,7 +338,7 @@
         <mxCell id="uHs2JWFgq39b8XywON-e-101" value="DieuKien:nvarchar(50)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="jPV6cfnG6z42-FubY8gx-23" vertex="1">
           <mxGeometry y="78" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="uHs2JWFgq39b8XywON-e-103" value="ThoiGianBatDau:dateTime" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="jPV6cfnG6z42-FubY8gx-23" vertex="1">
+        <mxCell id="uHs2JWFgq39b8XywON-e-103" value="ThoiGianBatDau:datetime" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="jPV6cfnG6z42-FubY8gx-23" vertex="1">
           <mxGeometry y="104" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uHs2JWFgq39b8XywON-e-104" value="ThoiGianKetThuc:dateTime" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="jPV6cfnG6z42-FubY8gx-23" vertex="1">
